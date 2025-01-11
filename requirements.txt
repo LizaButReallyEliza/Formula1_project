@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+psycopg2
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+asyncpg
+greenlet
+faker
+requests
